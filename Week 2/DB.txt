@@ -1,0 +1,15 @@
+One of the topics we study in our readings for this week is programming languages.  
+Our text book discusses the use of HTML, JavaScript and CSS in Web Programming.  
+
+For your discussion post this week you get a chance to code and learn about HTML, JavaScript and CSS.
+Watch the following video on the introduction to HTML, CSS, and Javascript: Introduction to HTML, CSS, JavaScript (Bellevue, 2023). 
+This video has several suggestions on how to complete your HTML code for this week. It is highly suggested that you watch this video before you start building your HTML.
+
+
+After you watch the video, create an HTML page that includes the following tags:
+
+• An H3 tag that has a style attribute with an orange background.
+
+• A paragraph or two that explains HTML, CSS and Javascript – what they are and how they are used to create web pages.
+
+• A second H3 tag that has a style attribute with slate blue background.

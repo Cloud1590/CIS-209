@@ -1,0 +1,7 @@
+One of the topics we study in our readings for this week is the relational model. 
+Our text book discusses the importance of primary keys in supporting the relational model. 
+For your discussion form this week you get a chance to code and learn about primary keys using HTML.
+Create an HTML page with an HTML table. Here is an example of the HTML table you will be creating:
+
+(table.png)
+

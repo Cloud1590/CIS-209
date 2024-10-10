@@ -3,5 +3,9 @@ Our text book discusses the importance of primary keys in supporting the relatio
 For your discussion form this week you get a chance to code and learn about primary keys using HTML.
 Create an HTML page with an HTML table. Here is an example of the HTML table you will be creating:
 
+This table is not in first normal form because it lacks a primary key. 
+Modify the HTML table, color one or more TH elements, with the STYLE attribute identifying the appropriate primary key.
+
+
 (table.png)
 

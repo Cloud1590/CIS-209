@@ -10,7 +10,7 @@ Consider the discussion question/prompt provided and post your response in the W
 Read the other postings and further discuss the topics by offering additional information, asking questions, or clarifying ideas. 
 You must post at least two (2) replies in order to receive full credit.'''
 
-
+'''
 
 
 What are the three recommendations for improving the privacy of your information?
@@ -38,3 +38,5 @@ Three recommendations for improving the privacy of email would be to use encrypt
 Email encryption prevents mail from being read by unauthorized users. It works by password protecting the email, and only allowing the recipient to view the email.
 A secure email service is a service that is designed to protect your email from being intercepted by hackers. It is usually a paid service that offers end-to-end encryption.
 Finally, a strong passwird should be used to log into your email account. A strong password is a password that is difficult to guess, and that is not used for any other accounts. It should be between 8-32 characters long, and should contain a mix of letters, numbers, and special characters. 
+
+'''

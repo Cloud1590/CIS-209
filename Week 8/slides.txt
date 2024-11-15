@@ -1,0 +1,102 @@
+Phase 1: Planning (1 of 2) 
+•Systems designer must define the problem the organization faces
+•Problem can be identified internally and externally
+•Analysts assess needs of the organization or a specific group of users
+•Organization’s strategic goals
+•How proposed system can support goals
+•Factors critical to the system’s success
+•Criteria for evaluating performance
+•
+
+
+
+Phase 1: Planning (2 of 2) 
+
+•Analysts must get feedback from users on the problem
+•At the end of the phase, users and top management should have a clear view of the why, who, when, and what of the problem
+•
+
+
+Phase 2: Requirements-Gathering and Analysis 
+(1 of 2) 
+
+•Analysts define the problem and generate alternatives for solving it
+•Team attempts to understand the requirements for the system
+•Analyzes requirements to determine the main problem with the current system or processes
+•Looks for ways to solve problems by designing the new system
+•
+Phase 2: Requirements-Gathering and Analysis 
+(2 of 2) 
+
+•Analysis and design approaches 
+•Structured systems analysis and design (SSAD)
+•Sequential approach that treats process and data independently
+•Object-oriented
+•Combines process and data analysis
+•Models created during the analysis phase constitute design specifications
+•
+Phase 3: Design (1 of 2) 
+
+•Analysts choose the most realistic solution that offers the highest payoff for the organization 
+•Details of the proposed solution are outlined
+•Output is a document with exact specifications for implementing the system
+•Files and databases
+•Forms and reports
+•Documentation and procedures
+•Hardware and software
+•Networking components
+•General system specifications
+•
+•
+
+
+Phase 3: Design (2 of 2) 
+
+•Design phase consists of three parts
+•Conceptual design: overview of the system and does not include hardware or software choices
+•Logical design: makes conceptual design specific by indicating hardware and software
+•Physical design: created for specific platforms
+•
+•
+
+
+Phase 4: Implementation (1 of 2) 
+
+•Team configures the system and procures components for it
+•Tasks involved
+•Acquiring new equipment
+•Hiring and training new employees
+•Planning and designing physical layout
+•Coding and testing
+•Designing security measures and safeguards
+•Creating a disaster recovery plan
+•
+•
+
+
+Phase 4: Implementation (2 of 2) 
+
+•Conversion options
+•Parallel: old and new systems run simultaneously for a short time to ensure the new system works correctly
+•Phased-in-phased-out: as each module of the new system is converted, the corresponding part of the old system is retired
+•Process continues until the entire system is operational
+•Plunge (direct cutover): old system is stopped and the new system is implemented
+•Pilot: analyst introduces the system in a limited area of the organization
+•Implemented in the rest of the organization in stages or all at once if the system works correctly
+•
+•
+•
+•
+Phase 5: Maintenance (1 of 2) 
+
+•Information system is operating
+•Enhancements and modifications to the system have been developed and tested
+•Hardware and software components have been added or replaced
+•
+•
+Phase 5: Maintenance (2 of 2) 
+
+•Performance data and information is gathered and assessed
+•Feedback from users, customers, and other people affected by the new system is collected
+•Corrective action is taken if the system’s objectives are not being met
+•

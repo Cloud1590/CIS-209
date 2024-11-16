@@ -1,0 +1,146 @@
+[00:00.560 --> 00:08.500]  Alright class, I hope you're doing well. In this video, I'm going to walk you through what you need to do to complete your homework for this week.
+[00:08.800 --> 00:13.480]  So the first thing that you're going to do is you're going to answer these five questions here.
+[00:13.580 --> 00:19.900]  And these five questions are all related to RFID technology and QR technology.
+[00:20.400 --> 00:27.800]  And then you're going to answer this question about how you can apply QR and RFID technology to global supply chain management.
+[00:27.800 --> 00:35.160]  Now, the content that you need to answer these five questions is in our assigned readings for this week.
+[00:35.260 --> 00:40.820]  So if you haven't looked through the assigned readings, please make sure you do that before you start,
+[00:40.920 --> 00:45.900]  because it will contain all the content you need to be able to answer these five questions.
+[00:46.740 --> 00:53.220]  Now, with that said, your answer to each of these questions should be a minimum of one detailed paragraph.
+[00:53.220 --> 00:56.500]  All right. So when you're done answering these five questions,
+[00:56.640 --> 00:57.780]  you should have a paper.
+[00:57.820 --> 01:01.620]  That has at a minimum five detailed paragraphs.
+[01:02.220 --> 01:11.720]  Once you answer these questions, what we're going to do next is we're going to do something fun and we're going to link your homework to a QR code.
+[01:12.500 --> 01:14.020]  And so let's go ahead and do that.
+[01:14.720 --> 01:21.440]  I like this QR generator and it's the here's the URL right here.
+[01:21.660 --> 01:26.040]  Now, you can use any sort of QR code generator you want.
+[01:26.040 --> 01:27.600]  I like this one.
+[01:27.800 --> 01:33.020]  Because it's free and you don't have to sign up for anything.
+[01:33.020 --> 01:37.460]  And it supports a bunch of different sort of QR code sources.
+[01:37.760 --> 01:43.580]  So with that said, we're going to focus on both the URL source and the text source.
+[01:43.980 --> 01:45.680]  So let's start with text source first.
+[01:45.980 --> 01:56.360]  So when I click on text, you'll notice that I can input my text here and you can see as I start typing text, my QR code gets generated below.
+[01:56.580 --> 01:57.780]  Now, you'll know.
+[01:57.780 --> 02:03.360]  Notice that as I type more and more text, my QR code becomes more and more complicated.
+[02:03.720 --> 02:09.240]  And there is an actual size limit to the amount of text that you can have for a QR code.
+[02:10.260 --> 02:17.460]  And your homework more than likely is going to be longer than the valid size that you can create for your QR code.
+[02:17.820 --> 02:27.240]  So what I want you to do is if you're going to use text, I want you to go over and you only need to include the first question and your answer the first question.
+[02:27.240 --> 02:28.780]  In your QR code.
+[02:28.860 --> 02:36.920]  So copy and paste the answer to your first question and put it in your text here and you'll notice that your QR code gets generated.
+[02:37.420 --> 02:41.300]  Now, with that said, there's also a URL option.
+[02:41.700 --> 02:48.920]  And if you haven't set up cloud storage yet, an example would be like Microsoft's OneDrive.
+[02:49.240 --> 02:51.340]  I would highly recommend you do that.
+[02:51.580 --> 02:54.100]  And in fact, here I'll show you how OneDrive works.
+[02:54.100 --> 02:56.520]  Here's here's my OneDrive.
+[02:56.520 --> 02:59.020]  And what I can do is it's refreshing.
+[02:59.460 --> 03:05.760]  What I can do is I can upload a document to OneDrive and I can actually share that document.
+[03:06.040 --> 03:09.240]  And I do that by clicking on the document and I click share.
+[03:09.800 --> 03:13.380]  And what will happen is it will generate a URL for me.
+[03:13.720 --> 03:17.820]  And here is the URL that is linked to this document.
+[03:17.940 --> 03:23.520]  So if I go back over to my QR code, I can paste that URL here.
+[03:23.760 --> 03:25.800]  Make sure I've clicked on URL.
+[03:25.800 --> 03:31.260]  And it will generate a QR code that is linked to that document.
+[03:31.700 --> 03:38.880]  Now, you could do that if you have cloud storage and you want to include all your answers to all five questions.
+[03:39.120 --> 03:43.620]  Just upload your document to cloud storage such as OneDrive.
+[03:43.920 --> 03:52.040]  Create a URL for that and then you can create a QR code that's linked to that document.
+[03:52.380 --> 03:55.040]  But for this in this scenario, I'm just going to use.
+[03:55.800 --> 04:00.700]  Question number, I'm going to use my answer to question number one, so I'll go back over here.
+[04:00.700 --> 04:04.380]  I'll click on text and here's my question number one.
+[04:04.560 --> 04:06.480]  And then I would add.
+[04:08.160 --> 04:20.220]  Add my answer here, and once I do that, my QR code gets generated and so then now I can hit download and I can select the size.
+[04:20.220 --> 04:24.180]  Now, I typically select 400 pixels.
+[04:24.720 --> 04:25.700]  I don't like that.
+[04:25.700 --> 04:31.640]  The image of of these larger ones, 400 is fine, but if you prefer the larger image, that's fine.
+[04:31.640 --> 04:36.440]  And then you go ahead and click download and it will download your QR code.
+[04:36.740 --> 04:40.760]  And so I'm going to go ahead and click on it and you can see this is my QR code.
+[04:41.020 --> 04:52.760]  Now, what I want to do is I want to save this QR code and I want to save it into this as a you can save it as a GIF, a JPEG, a PNG.
+[04:52.760 --> 04:55.460]  I'm going to go ahead and just save it as a as a JPEG.
+[04:55.940 --> 05:09.940]  Now, what you want to do, and this is very important, is you need to be able to save that JPEG in the exact same folder that has the word document that answers your five questions.
+[05:09.940 --> 05:12.740]  OK, so what I mean by that is in here.
+[05:13.580 --> 05:25.580]  In this folder, I have my this is my folder, this location here is where I have my word document that answers all five questions.
+[05:25.580 --> 05:35.920]  OK, and I'm going to go ahead and save this as QR code JPEG and I'm going to go ahead and hit OK and then I'm going to close this.
+[05:35.920 --> 05:49.020]  Now, if I go over to that folder, you'll notice this is the folder where I saved it and I have this QR code JPEG and again, this is my document where I have my five questions.
+[05:49.020 --> 05:55.020]  OK, next, now that you have a QR code that's linked to your.
+[05:55.580 --> 06:19.700]  Linked to your word document that contains the answers of those five questions, or if you use the text version that just contains the answers to the first question, you are going to create an HTML page that displays that QR code and we're going to use the HTML image tag.
+[06:19.700 --> 06:25.160]  So you probably have not seen the image tag, but the image tag is an HTML tag.
+[06:25.580 --> 06:55.560]  That you can use that will use to display image images and so you can see right here, here's an example of the HTML image tag and so you can see I have my image, my begin image and then I have my closing or my my image tag and you can see that I have several attributes of this tag and those attributes include the source and then we have the width and the height.
+[06:55.580 --> 07:09.640]  Now, for this, there's lots of different attributes that you can use and in fact, if you go to W3 schools, you can see all these attributes that you can use in your image tag.
+[07:09.640 --> 07:15.980]  You can also use an image that's contained within a local directory.
+[07:16.420 --> 07:25.560]  You can use an image that is located on a cloud storage device or over.
+[07:25.580 --> 07:35.640]  On another resource or here's an example of where you can create a link to an image as well, but for ours, we're going to keep it very simple.
+[07:35.640 --> 07:46.200]  We're going to just create a simple HTML page that has an image to your QR code and so we're going to go ahead and start.
+[07:46.380 --> 07:53.520]  So I'm going to go back over to the folder where my QR code is and I'm going to go ahead and I'm going to create my HTML page.
+[07:53.520 --> 07:55.320]  And so again, I'm going to go.
+[07:55.580 --> 07:59.420]  To text, I'm going to create a text document.
+[07:59.880 --> 08:02.840]  Well, actually, I'm going to I'm just going to use I'm going to use notepad.
+[08:03.060 --> 08:09.640]  So we'll go over here and we'll say new and let's do this.
+[08:09.700 --> 08:11.900]  I'll go notepad.
+[08:12.880 --> 08:13.460]  All right.
+[08:13.500 --> 08:17.900]  And so what I want to do is I want to paste in my image.
+[08:17.940 --> 08:23.080]  And so we're going to this will be the image tag that would be used to display our QR code.
+[08:23.080 --> 08:25.080]  Now, we just don't want to.
+[08:25.080 --> 08:29.080]  To display our QR code, we want to add some additional tags to it.
+[08:29.080 --> 08:50.400]  So let's go ahead and create our HTML tag and then we're going to create a title and we'll call this Patrick's QR code example and then we'll create it in that tag and then we'll actually give it a heading as well.
+[08:50.400 --> 08:54.400]  So let's create a heading H1 and we'll call this Patrick.
+[08:55.080 --> 08:58.360]  Patrick's QR code.
+[08:58.740 --> 09:01.060]  Now, you can be creative.
+[09:01.200 --> 09:06.440]  You can add additional additional HTML tags if you want.
+[09:06.540 --> 09:08.600]  You can add CSS styling tags.
+[09:08.960 --> 09:15.480]  But a minimum, I want you to add your HTML tag, your title tag and your H1 in your image tag.
+[09:15.720 --> 09:19.920]  OK, and then we're going to go ahead and we're going to end our heading tag.
+[09:19.920 --> 09:24.020]  We're going to end our HTML tag.
+[09:24.380 --> 09:24.440]  OK.
+[09:25.080 --> 09:28.020]  Now, what we want to do is we want to edit this image tag.
+[09:28.020 --> 09:32.020]  So we want to add our image for our QR code.
+[09:32.420 --> 09:42.600]  And so what I'm going to do is you'll notice here I have my QR code saved and I called it QR code dot.
+[09:43.980 --> 09:45.140]  J peg.
+[09:46.080 --> 09:48.420]  And I don't want to have the alt text.
+[09:48.520 --> 09:50.920]  The alt text is we'll just remove it for now.
+[09:51.000 --> 09:52.840]  I don't want to go into details on the alt text.
+[09:53.000 --> 09:54.960]  And then I have my width.
+[09:55.080 --> 09:55.700]  And my height.
+[09:55.980 --> 09:56.160]  OK.
+[09:56.520 --> 10:03.500]  And so this is a minimum of what I want to see you have included with your HTML page.
+[10:03.760 --> 10:06.760]  Now, like I said, you can add other HTML tags.
+[10:06.820 --> 10:08.500]  You can add CSS to doctor it up.
+[10:08.540 --> 10:09.440]  You can get creative.
+[10:09.760 --> 10:11.320]  But a minimum, I want to see this.
+[10:12.140 --> 10:14.540]  And then what I'm going to do is I'm going to save this.
+[10:14.540 --> 10:18.740]  Now, it's very important that you save this.
+[10:21.180 --> 10:23.200]  Let's let's give it a name first.
+[10:23.540 --> 10:23.980]  QR.
+[10:25.080 --> 10:28.680]  Code Example.
+[10:29.300 --> 10:29.800]  All right.
+[10:29.920 --> 10:39.960]  And it's very important that you save this in the same directory as where you have your QR code.
+[10:40.500 --> 10:41.400]  QR code image.
+[10:41.400 --> 10:44.740]  So I'm going to go ahead and save this and I'm going to go ahead and close this.
+[10:44.740 --> 10:48.420]  And so you'll see now I have my QR code example.
+[10:48.760 --> 10:49.840]  And let's rename this.
+[10:49.840 --> 10:51.840]  Let's create this as an HTML file.
+[10:51.840 --> 10:52.340]  J peg.
+[10:52.340 --> 10:52.840]  J peg.
+[10:52.840 --> 10:53.240]  J peg.
+[10:53.240 --> 10:53.740]  J peg.
+[10:53.740 --> 10:54.140]  J peg.
+[10:54.140 --> 10:54.980]  J peg.
+[10:54.980 --> 10:55.480]  J peg.
+[10:55.480 --> 10:55.980]  J peg.
+[10:55.980 --> 10:56.480]  J peg.
+[10:56.480 --> 10:56.740]  J peg.
+[10:56.740 --> 10:57.240]  J peg.
+[10:57.240 --> 10:57.740]  J peg.
+[10:57.740 --> 11:08.160]  And now you'll notice my QR code examples, what I called my HTML page, has to be in the exact same directory as your QR code itself.
+[11:08.160 --> 11:17.660]  The image of your QR code if you don't have your QR code example in the same directory as your QR code image, your homework won't work.
+[11:17.780 --> 11:18.080]  OK.
+[11:18.420 --> 11:22.000]  And so let's go ahead and click on my QR code and see.
+[11:22.000 --> 11:22.540]  Here it is.
+[11:22.540 --> 11:23.760]  And you can see Patrick.
+[11:23.760 --> 11:31.420]  QR code, and then you can see my QR code below. Now, your size of your QR code might be different
+[11:31.420 --> 11:38.260]  based upon the size that you selected when you created your QR code. Okay. And so that's all
+[11:38.260 --> 11:43.100]  you need to do for your homework for this week. And so what you're going to submit for your
+[11:43.100 --> 11:49.720]  homework is you're going to, let me go back over to where my, my files are located. You're going
+[11:49.720 --> 11:59.440]  to submit this, which is your HTML file that includes your image tag of your QR code. And
+[11:59.440 --> 12:06.520]  then you're going to also submit a Word document that contains your answers to those five questions.
+[12:06.840 --> 12:12.260]  So you need to be able to submit two things or two items for your homework. One is your HTML,
+[12:12.260 --> 12:19.700]  again, your HTML page with your QR code image. And number two is a Word document that answers
+[12:19.700 --> 12:24.440]  those five questions. If you have any questions on your homework for this week,
+[12:24.800 --> 12:27.220]  please reach out to your professor. Talk to you later. Bye.
